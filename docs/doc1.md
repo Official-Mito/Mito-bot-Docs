@@ -1,7 +1,7 @@
 ---
-id: About
-title: About
-sidebar_label: About
+id: My Site
+title: Style Guide
+sidebar_label: Style Guide
 slug: /
 ---
 # About
