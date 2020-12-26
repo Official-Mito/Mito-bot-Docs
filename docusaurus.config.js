@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'Official-Mito.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Mito - Docs',
+      title: 'Mito',
       logo: {
         alt: 'Mito Logo',
         src: 'img/favicon.ico',
@@ -37,7 +37,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Documentation',
               to: 'docs/',
             },
             {
