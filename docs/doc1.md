@@ -1,13 +1,19 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: About
+title: About
+sidebar_label: About
 slug: /
 ---
+# About
+### Meet Mito A Multipurpose Discord bot
+---
+
+## Welcome to the Official Documentation of Mito bot!
+#### Mito bot is a discord bot coded in nodejs with tons of fun and handy features, that makes your discord server more functional as well as fun. 
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax lol hi 
+## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
