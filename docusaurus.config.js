@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Mito - Docs',
+  title: 'MitoBot',
   tagline: 'A multipurpose Discord Bot',
   url: 'https://mitodocs.vercel.app',
   baseUrl: '/',

@@ -1,6 +1,13 @@
 ---
 id: doc2
-title: Document Number 2
+title: Fun Module
 ---
+Welcome to the Fun Module of Mito Bot!
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
+1. Fun Commands
+   - amazeme
+   - dadjokes
+   - gayrate
+   - meme 
+   - pp 
+   - roast

@@ -4,8 +4,7 @@ title: About
 sidebar_label: Style Guide
 slug: /
 ---
-# About
-### Meet Mito A Multipurpose Discord bot
+Meet Mito, A Multipurpose Discord bot
 ---
 
 ## Welcome to the Official Documentation of Mito bot!
