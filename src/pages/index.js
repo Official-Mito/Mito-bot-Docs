@@ -8,22 +8,20 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Super Fast',
+    imageUrl: 'https://cdn.discordapp.com/attachments/765124474927579147/792668570646478848/unknown.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Mito is fast and 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Easy To Use',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Mito bot consists of easy commands 
       </>
     ),
   },

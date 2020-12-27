@@ -1,8 +1,8 @@
 ---
 id: doc1
 title: About
-sidebar_label: Style Guide
-slug: /
+sidebar_label: About
+slug:
 ---
 Meet Mito, A Multipurpose Discord bot
 ---
