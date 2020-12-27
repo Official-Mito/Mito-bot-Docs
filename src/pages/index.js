@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Super Fast',
-    imageUrl: 'https://cdn.discordapp.com/attachments/765124474927579147/792668570646478848/unknown.png',
+    imageUrl: 'img/ping.PNG',
     description: (
       <>
         Mito is fast and 
