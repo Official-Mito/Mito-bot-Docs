@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: "warn",
   favicon: "https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png",
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
-  //projectName: "Wiki_Docusaurus", // Usually your repo name.
+  projectName: "Mito-bot-Docs", // Usually your repo name.
   themeConfig: {
     image: 'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png',
     algolia: {
