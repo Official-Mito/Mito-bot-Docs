@@ -1,6 +1,6 @@
 module.exports = {
   docs: [
-    'Home',
+    'test',
     {
       type: 'category',
       label: 'test',
